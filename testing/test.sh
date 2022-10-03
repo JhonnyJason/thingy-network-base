@@ -1,1 +1,1 @@
-node test.mjs --experimental-fetch
+node test.mjs
